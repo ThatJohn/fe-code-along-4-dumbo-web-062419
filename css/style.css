@@ -71,7 +71,7 @@ figcaption {
   color: red;
 }
 
-/******** LAYOUT ********/
+/******** MEDIA ********/
 
 img, video, audio {
   max-width: 100%;
@@ -112,4 +112,10 @@ img, video, audio {
   visibility: hidden;
   height: 0;
   line-height: 0;
+}
+
+/******** MEDIA ********/
+section {
+  padding: 20px;
+  margin-bottom: 20px;
 }
