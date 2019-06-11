@@ -125,3 +125,9 @@ section {
   padding: 20px;
   margin-bottom: 20px;
 }
+
+/******** SOCIAL ********/
+#social {
+  position: fixed;
+  top: 200px;
+}
